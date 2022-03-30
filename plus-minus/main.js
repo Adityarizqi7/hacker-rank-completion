@@ -32,6 +32,7 @@ function main() {
     console.log(result)
 
     // Okay Guys Thank You
+    // Next part 2
 } 
 
 main()
